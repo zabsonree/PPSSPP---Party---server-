@@ -1,0 +1,12 @@
+{
+  "name": "ppsspp-party-server",
+  "version": "1.0.0",
+  "description": "Serveur simple pour PPSSPP Party",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
